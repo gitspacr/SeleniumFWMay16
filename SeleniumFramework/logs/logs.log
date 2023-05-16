@@ -1,0 +1,307 @@
+[INFO ] 2023-05-11 23:41:10.492 [main] TestBase - initialize browser
+[INFO ] 2023-05-11 23:41:11.932 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-11 23:41:15.221 [main] TestBase - Application browser launched successfully
+[INFO ] 2023-05-11 23:41:18.606 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-11 23:41:45.089 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-11 23:41:45.091 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-11 23:41:45.157 [main] TestBase - title of the page
+[INFO ] 2023-05-11 23:41:45.158 [main] TestBase - Tile of the page
+[INFO ] 2023-05-11 23:52:18.259 [main] TestBase - initialize browser
+[INFO ] 2023-05-11 23:52:20.556 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-11 23:52:23.989 [main] TestBase - Application browser launched successfully
+[INFO ] 2023-05-11 23:52:27.470 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-11 23:52:27.759 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-11 23:52:31.843 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-11 23:52:31.843 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-11 23:52:32.102 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-11 23:52:32.102 [main] TestBase - title of the page
+[INFO ] 2023-05-11 23:52:32.103 [main] TestBase - Tile of the page
+[INFO ] 2023-05-11 23:56:47.199 [main] TestBase - initialize browser
+[INFO ] 2023-05-11 23:56:48.721 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-11 23:56:51.307 [main] TestBase - Application browser launched successfully
+[INFO ] 2023-05-11 23:56:54.719 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-11 23:56:55.010 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-11 23:56:59.140 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-11 23:56:59.141 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-11 23:56:59.472 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-11 23:56:59.472 [main] TestBase - title of the page
+[INFO ] 2023-05-11 23:56:59.472 [main] TestBase - Tile of the page
+[INFO ] 2023-05-11 23:58:04.631 [main] TestBase - initialize browser
+[INFO ] 2023-05-11 23:58:06.128 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-11 23:58:09.376 [main] TestBase - Application browser launched successfully
+[INFO ] 2023-05-11 23:58:12.811 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-11 23:58:13.096 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-11 23:58:17.195 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-11 23:58:17.195 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-11 23:58:17.491 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-11 23:58:17.491 [main] TestBase - title of the page
+[INFO ] 2023-05-11 23:58:17.491 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 17:58:59.491 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 17:59:02.885 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 17:59:05.919 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 17:59:06.166 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 17:59:06.170 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 17:59:06.171 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 17:59:10.121 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 17:59:10.404 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 17:59:16.138 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 17:59:16.139 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 17:59:19.601 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 17:59:19.923 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 17:59:25.887 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 17:59:25.887 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 17:59:26.228 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 17:59:26.228 [main] TestBase - title of the page
+[INFO ] 2023-05-12 17:59:26.228 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 18:03:29.922 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 18:03:31.543 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 18:03:34.639 [main] TestBase - Application browser launched successfully
+[INFO ] 2023-05-12 18:03:38.047 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 18:03:38.352 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 18:03:47.214 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 18:03:47.214 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 18:03:47.491 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 18:03:47.492 [main] TestBase - title of the page
+[INFO ] 2023-05-12 18:03:47.492 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:10:52.519 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:10:55.232 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:10:58.557 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:10:58.955 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:10:58.963 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:10:58.967 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:11:03.844 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:11:04.227 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:11:08.285 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:11:08.285 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:11:11.643 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:11:11.911 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:11:15.959 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:11:15.959 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:11:19.194 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:11:19.433 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:11:24.246 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:11:24.247 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:11:24.643 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:11:24.644 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:11:24.644 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:12:00.390 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:12:01.641 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:12:04.218 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:12:04.818 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:12:04.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:12:04.836 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:12:09.734 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:12:10.097 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:12:14.020 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:12:14.020 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:12:17.338 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:12:17.623 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:12:22.531 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:12:22.531 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:12:25.722 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:12:25.950 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:12:30.887 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:12:30.887 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:12:31.134 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:12:31.134 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:12:31.134 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:13:12.800 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:13:14.895 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:13:17.597 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:13:17.934 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:13:17.941 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:13:17.946 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:13:22.507 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:13:22.865 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:13:27.086 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:13:27.086 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:13:30.344 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:13:30.568 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:13:34.860 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:13:34.860 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:13:35.159 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:13:35.159 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:13:35.159 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:15:02.888 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:15:04.210 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:15:06.792 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:15:07.139 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:15:07.148 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:15:07.152 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:15:11.975 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:15:12.440 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:15:18.355 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:15:18.355 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:15:21.831 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:15:22.196 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:15:28.997 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:15:28.997 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:15:29.340 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:15:29.340 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:15:29.340 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:44:49.819 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:44:51.030 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:44:54.029 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:44:54.459 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:44:54.467 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:44:54.472 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:44:59.379 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:44:59.942 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:45:04.092 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:45:04.092 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:45:07.389 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:45:07.660 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:45:12.535 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:45:12.535 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:45:12.808 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:45:12.808 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:45:12.808 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:48:21.516 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:48:23.683 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:48:28.221 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:48:28.481 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:48:28.487 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:48:28.490 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:48:33.012 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:48:33.440 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:48:38.089 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:48:38.089 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:48:41.393 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:48:41.703 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:48:46.004 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:48:46.004 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:48:46.297 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:48:46.297 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:48:46.298 [main] TestBase - Tile of the page
+[INFO ] 2023-05-12 23:52:00.888 [main] TestBase - initialize browser
+[INFO ] 2023-05-12 23:52:02.114 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-12 23:52:04.265 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-12 23:52:04.398 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-12 23:52:04.401 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-12 23:52:04.402 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-12 23:52:08.341 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:52:08.696 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:52:12.878 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:52:12.878 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:52:16.150 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-12 23:52:16.361 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:52:23.215 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-12 23:52:23.215 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-12 23:52:23.660 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-12 23:52:23.660 [main] TestBase - title of the page
+[INFO ] 2023-05-12 23:52:23.661 [main] TestBase - Tile of the page
+[INFO ] 2023-05-13 00:00:47.926 [main] TestBase - initialize browser
+[INFO ] 2023-05-13 00:00:50.174 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-13 00:00:53.282 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-13 00:00:53.617 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-13 00:00:53.624 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-13 00:00:53.627 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-13 00:00:58.356 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-13 00:00:58.735 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-13 00:01:02.799 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-13 00:01:02.799 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-13 00:01:06.078 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-13 00:01:06.312 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-13 00:01:10.929 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-13 00:01:10.929 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-13 00:01:11.256 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-13 00:01:11.257 [main] TestBase - title of the page
+[INFO ] 2023-05-13 00:01:11.257 [main] TestBase - Tile of the page
+[INFO ] 2023-05-15 23:47:44.564 [main] TestBase - initialize browser
+[INFO ] 2023-05-15 23:47:48.508 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-15 23:47:51.291 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-15 23:47:51.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-15 23:47:51.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-15 23:47:51.617 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-15 23:47:56.473 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-15 23:47:56.959 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:48:01.118 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-15 23:48:01.119 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-15 23:48:04.508 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-15 23:48:04.843 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:48:09.107 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-15 23:48:09.108 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-15 23:48:09.340 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:48:09.342 [main] TestBase - title of the page
+[INFO ] 2023-05-15 23:48:09.342 [main] TestBase - Tile of the page
+[INFO ] 2023-05-15 23:49:36.008 [main] TestBase - initialize browser
+[INFO ] 2023-05-15 23:49:38.274 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-15 23:49:41.695 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-15 23:49:41.927 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-15 23:49:41.936 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-15 23:49:41.937 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-15 23:49:46.473 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-15 23:49:46.995 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:49:52.172 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-15 23:49:52.173 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-15 23:49:55.550 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-15 23:49:55.970 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:50:01.416 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-15 23:50:01.417 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-15 23:50:01.801 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:50:01.801 [main] TestBase - title of the page
+[INFO ] 2023-05-15 23:50:01.801 [main] TestBase - Tile of the page
+[INFO ] 2023-05-15 23:50:18.970 [main] TestBase - initialize browser
+[INFO ] 2023-05-15 23:50:20.947 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-15 23:50:44.413 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-15 23:50:44.545 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-15 23:50:44.547 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-15 23:50:44.550 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-15 23:50:48.295 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-15 23:50:48.669 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:50:53.332 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-15 23:50:53.332 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-15 23:50:56.592 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-15 23:50:56.872 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:51:02.530 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-15 23:51:02.530 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-15 23:51:02.969 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-15 23:51:02.969 [main] TestBase - title of the page
+[INFO ] 2023-05-15 23:51:02.970 [main] TestBase - Tile of the page
+[INFO ] 2023-05-16 00:05:27.796 [main] TestBase - initialize browser
+[INFO ] 2023-05-16 00:05:29.005 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-16 00:05:31.796 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-16 00:05:31.935 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-16 00:05:31.940 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-16 00:05:31.941 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-16 00:05:36.052 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-16 00:05:36.424 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 00:05:42.094 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-16 00:05:42.095 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-16 00:05:45.331 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-16 00:05:45.571 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 00:05:51.725 [main] TestBase - Refresh button is clicked
+[INFO ] 2023-05-16 00:05:51.725 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-16 00:05:51.942 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 00:05:51.942 [main] TestBase - title of the page
+[INFO ] 2023-05-16 00:05:51.942 [main] TestBase - Tile of the page
+[INFO ] 2023-05-16 00:07:50.393 [main] TestBase - initialize browser
+[INFO ] 2023-05-16 00:08:07.055 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-16 00:08:14.963 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-16 00:08:15.172 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-16 00:08:15.174 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-16 00:08:15.175 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-16 00:08:19.090 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-16 00:08:19.399 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 00:08:23.598 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-16 00:08:27.204 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-16 00:08:27.550 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 00:08:31.701 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-16 00:08:31.834 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 00:08:31.834 [main] TestBase - title of the page
+[INFO ] 2023-05-16 00:08:31.834 [main] TestBase - Tile of the page
+[INFO ] 2023-05-16 23:04:06.279 [main] TestBase - initialize browser
+[INFO ] 2023-05-16 23:04:10.983 [main] TestBase - initialize chromebrowser
+[INFO ] 2023-05-16 23:04:14.189 [main] TestBase - Application browser launched successfully
+[DEBUG] 2023-05-16 23:04:14.540 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-05-16 23:04:14.549 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-05-16 23:04:14.554 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-05-16 23:04:19.817 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-16 23:04:20.287 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 23:04:24.419 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-16 23:04:27.738 [main] TestBase - Enter all the mandatory fields
+[INFO ] 2023-05-16 23:04:27.971 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 23:04:32.101 [main] TestBase - Registration info filled and refreshed
+[INFO ] 2023-05-16 23:04:32.280 [main] TestBase - Screenshot taken
+[INFO ] 2023-05-16 23:04:32.280 [main] TestBase - title of the page
+[INFO ] 2023-05-16 23:04:32.280 [main] TestBase - Tile of the page

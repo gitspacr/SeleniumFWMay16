@@ -1,0 +1,10 @@
+com\qa\pages\SiginPage.class
+com\qa\BaseClass\TestBase.class
+com\qa\resources\ListenersTestClass.class
+com\qa\reusability\Browser.class
+com\qa\Utility\ReadConfig.class
+com\qa\pages\RegisterPage.class
+com\qa\pages\Windows.class
+com\qa\reusability\Control.class
+com\qa\pages\Alerts.class
+com\qa\resources\ReadData.class
