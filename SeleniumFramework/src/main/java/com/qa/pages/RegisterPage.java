@@ -90,5 +90,19 @@ public class RegisterPage extends TestBase{
 		
 	}
 	
+	public void getCurrentURL() {
+		
+		try {
+		
+		System.out.println(driver.getCurrentUrl());
+		getScreenshot(driver, "currentURL");
+		logger.info("get current url");
+		} catch (Exception e) {
+			
+		}
+		
+		
+	}
+	
 
 }

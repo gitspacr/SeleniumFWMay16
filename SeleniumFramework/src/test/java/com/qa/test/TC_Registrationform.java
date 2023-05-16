@@ -41,6 +41,17 @@ public class TC_Registrationform extends TestBase {
 	}
 	
 	
+	@Test
+	public void getCurrURL()
+	{
+		try {
+			RegisterPage rp = new RegisterPage(driver);
+			rp.getCurrentURL();
+			logger.info("Tile of the page");
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
 	
+	}
 
 }
